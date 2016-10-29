@@ -13,6 +13,7 @@ module.exports = {
   'babel-plugin-syntax-async-functions': require('babel-plugin-syntax-async-functions'),
   'babel-plugin-syntax-class-properties': require('babel-plugin-syntax-class-properties'),
   'babel-plugin-syntax-trailing-function-commas': require('babel-plugin-syntax-trailing-function-commas'),
+  'babel-plugin-transform-async-to-generator': require('babel-plugin-transform-async-to-generator'),
   'babel-plugin-transform-class-properties': require('babel-plugin-transform-class-properties'),
   'babel-plugin-transform-es2015-destructuring': require('babel-plugin-transform-es2015-destructuring'),
   'babel-plugin-transform-es2015-modules-commonjs': require('babel-plugin-transform-es2015-modules-commonjs'),

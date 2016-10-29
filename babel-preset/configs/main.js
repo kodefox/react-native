@@ -17,6 +17,7 @@ module.exports = {
     'syntax-async-functions',
     'syntax-class-properties',
     'syntax-trailing-function-commas',
+    'transform-async-to-generator', // <<== Added this line
     'transform-class-properties',
     // 'transform-es2015-function-name',
     // 'transform-es2015-arrow-functions',
