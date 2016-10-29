@@ -1,3 +1,10 @@
+# babel-preset-react-native-mocha
+
+This is a fork of React Native's `babel-preset-react-native` to include only the transforms necessary for testing in [Mocha](https://mochajs.org/) on modern Node (v6.5+). For a more complete Mocha + React Native solution, check out [mocha-react-native](https://www.npmjs.com/package/mocha-react-native) which uses this package as well as [react-native-mock](https://www.npmjs.com/package/react-native-mock).
+
+The original README follows.
+
+
 # babel-preset-react-native
 
 Babel presets for React Native applications. React Native itself uses this Babel preset by default when transforming your app's source code.
