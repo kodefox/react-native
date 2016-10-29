@@ -1,19 +1,20 @@
 {
-  "name": "babel-preset-react-native",
+  "name": "babel-preset-react-native-mocha",
   "version": "1.9.0",
-  "description": "Babel preset for React Native applications",
+  "description": "Babel preset for React Native testing with Mocha",
   "main": "index.js",
-  "repository": "https://github.com/facebook/react-native/tree/master/babel-preset",
+  "repository": "https://github.com/kodefox/babel-preset-react-native-mocha",
   "keywords": [
     "babel",
     "preset",
+    "mocha",
     "react-native"
   ],
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/facebook/react-native/issues"
+    "url": "https://github.com/kodefox/babel-preset-react-native-mocha/issues"
   },
-  "homepage": "https://github.com/facebook/react-native/tree/master/babel-preset/README.md",
+  "homepage": "https://github.com/kodefox/babel-preset-react-native-mocha",
   "dependencies": {
     "babel-plugin-react-transform": "2.0.2",
     "babel-plugin-syntax-async-functions": "^6.5.0",
